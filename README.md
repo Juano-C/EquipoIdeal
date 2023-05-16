@@ -1,8 +1,8 @@
-<h1> Trabajo Practico n3 de Programacion 3  </h1>
+#<h1> Trabajo Practico n3 de Programacion 3  </h1>
 
 <h2> TP n3 de la universidad nacional general sarmiento </h2>
 
-# Nos encontramos en el departamento de recursos humanos de una software factory, y tenemos que diseñar un grupo de desarrollo para un nuevo proyecto. 
+Nos encontramos en el departamento de recursos humanos de una software factory, y tenemos que diseñar un grupo de desarrollo para un nuevo proyecto. 
 
 El objetivo del trabajo práctico es implementar una aplicación para resolver esta problemática.
 
